@@ -78,6 +78,7 @@ MarcoCarnevali/claude-code-mods
 mertkayacs/ultramod
 moduvoice/claude-code-ko-ui
 MohammedSaud404/rtl-terminal
+MrMirhan/claude-buddy-chat
 Mucida/critical-decisions
 muellerei/enable-todo-tools
 muellerei/sweet-spot
